@@ -2,7 +2,10 @@
 
 <img src="assets/banner.svg" alt="Floduat" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=F5F5F5&center=true&vCenter=true&width=600&lines=I+build+products+that+make+money.;Django+%E2%80%A2+React%2FTS+%E2%80%A2+Telegram+bots;Self-hosted.+Self-made.;Create+moments.+Don't+watch+them." alt="typing" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=1F2937&center=true&vCenter=true&width=600&lines=I+build+products+that+make+money.;Django+%E2%80%A2+React%2FTS+%E2%80%A2+Telegram+bots;Self-hosted.+Self-made.;Create+moments.+Don't+watch+them.">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=F5F5F5&center=true&vCenter=true&width=600&lines=I+build+products+that+make+money.;Django+%E2%80%A2+React%2FTS+%E2%80%A2+Telegram+bots;Self-hosted.+Self-made.;Create+moments.+Don't+watch+them." alt="typing" />
+</picture>
 
 </div>
 
@@ -49,9 +52,16 @@ mindset:   build it, ship it, scale it
 ## `~/stats`
 
 <div align="center">
-  <img src="metrics/overview.svg" alt="GitHub metrics" />
-  <img src="metrics/languages.svg" alt="Most used languages" />
+  <img src="https://raw.githubusercontent.com/Floduat/Floduat/metrics-output/metrics/overview.svg" alt="GitHub metrics" />
+  <img src="https://raw.githubusercontent.com/Floduat/Floduat/metrics-output/metrics/languages.svg" alt="Most used languages" />
 </div>
+
+## `~/contact`
+
+<p>
+  <a href="https://t.me/floduat"><img src="https://img.shields.io/badge/Telegram-@floduat-000000?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:me@floduat.xyz"><img src="https://img.shields.io/badge/Email-me@floduat.xyz-000000?style=flat-square" /></a>
+</p>
 
 ---
 
