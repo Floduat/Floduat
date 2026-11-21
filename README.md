@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1f2937&height=140&section=header&text=FLODUAT&fontSize=56&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
+<img src="assets/banner.svg" alt="Floduat" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=F5F5F5&center=true&vCenter=true&width=600&lines=I+build+products+that+make+money.;Django+%E2%80%A2+React%2FTS+%E2%80%A2+Telegram+bots;Self-hosted.+Self-made.;Create+moments.+Don't+watch+them." alt="typing" />
 
