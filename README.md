@@ -49,10 +49,8 @@ mindset:   build it, ship it, scale it
 ## `~/stats`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Floduat&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Floduat&layout=compact&hide_border=true&langs_count=6&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Floduat&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img src="metrics/overview.svg" alt="GitHub metrics" />
+  <img src="metrics/languages.svg" alt="Most used languages" />
 </div>
 
 ---
