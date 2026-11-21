@@ -27,8 +27,8 @@ jobs:
           base: header, activity, repositories
           base_indepth: yes
           config_display: large
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
           committer_message: "chore: update metrics overview [skip ci]"
 
       # Languages card, counted across all repos the token can see (private included)
