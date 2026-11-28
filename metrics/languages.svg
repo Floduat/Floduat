@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.4427313568459" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="603.4427313568459" y="0" width="271.6462825952042" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="875.08901395205" y="0" width="26.87819332919594" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="901.9672072812459" y="0" width="18.032792718754038" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.3672440840597" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="603.3672440840597" y="0" width="272.1995717463219" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="875.5668158303818" y="0" width="26.592239882412553" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="902.1590557127943" y="0" width="17.840944287205744" height="8" fill="#844FBA"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>65.59%</div>
+                                <div>65.58%</div>
                             </small>
                         </div>
                     </section>
@@ -49,7 +49,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>29.53%</div>
+                                <div>29.59%</div>
                             </small>
                         </div>
                     </section>
@@ -62,7 +62,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>2.92%</div>
+                                <div>2.89%</div>
                             </small>
                         </div>
                     </section>
@@ -75,7 +75,7 @@
                                 HCL
                             </div>
                             <small>
-                                <div>1.96%</div>
+                                <div>1.94%</div>
                             </small>
                         </div>
                     </section>
